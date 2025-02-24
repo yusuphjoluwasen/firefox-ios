@@ -74,6 +74,9 @@
 "Settings.CrashReports.Link.v136" = "ਹੋਰ ਜਾਣੋ";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
+"Settings.CrashReports.Message.v135" = "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਸਾਨੂੰ ਬਰਾਊਜ਼ਰ ਬਾਰੇ ਪੜਤਾਲ ਕਰਨ ਅਤੇ ਮਸਲੇ ਠੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦੀਆਂ ਹਨ।";
+
+/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "ਇਹ ਸਾਨੂੰ ਬਰਾਊਜ਼ਰ ਬਾਰੇ ਪੜਤਾਲ ਕਰਨ ਅਤੇ ਮਸਲੇ ਠੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦੀਆਂ ਹਨ।";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
@@ -117,6 +120,9 @@
 
 /* This is the title informing the user needs to turn on notifications in iOS Settings. */
 "Settings.Notifications.TurnOnNotificationsTitle.v112" = "ਸੂਚਨਾਵਾਂ ਚਾਲੂ ਕਰੋ";
+
+/* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
+"Settings.PrivacyNotice.Title.v137" = "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ";
 
 /* Accessibility label for default search engine setting. */
 "Settings.Search.Accessibility.DefaultSearchEngine.v121" = "ਮੂਲ ਖੋਜ ਇੰਜਣ";
@@ -201,4 +207,7 @@
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਨੂੰ ਭੇਜੋ";
+
+/* Terms of Use settings section title */
+"Settings.TermsOfUse.Title.v137" = "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ";
 
