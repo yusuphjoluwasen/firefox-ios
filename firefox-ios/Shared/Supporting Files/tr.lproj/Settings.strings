@@ -74,6 +74,9 @@
 "Settings.CrashReports.Link.v136" = "Daha fazla bilgi alın";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
+"Settings.CrashReports.Message.v135" = "Çökme raporları tarayıcıyla ilgili sorunları teşhis etmemize ve düzeltmemize olanak tanır.";
+
+/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Bu, tarayıcıyla ilgili sorunları teşhis edip düzeltmemize yardımcı olur.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
@@ -117,6 +120,9 @@
 
 /* This is the title informing the user needs to turn on notifications in iOS Settings. */
 "Settings.Notifications.TurnOnNotificationsTitle.v112" = "Bildirimleri aç";
+
+/* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
+"Settings.PrivacyNotice.Title.v137" = "Gizlilik Bildirimi";
 
 /* Accessibility label for default search engine setting. */
 "Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Varsayılan arama motoru";
@@ -201,4 +207,7 @@
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Teknik verileri ve etkileşim verilerini gönder";
+
+/* Terms of Use settings section title */
+"Settings.TermsOfUse.Title.v137" = "Kullanım Koşulları";
 
