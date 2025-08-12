@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/mozilla/rust-components-swift",
         "state": {
           "branch": null,
-          "revision": "08562efca5ea879c9e467073514be939645c54db",
-          "version": "143.0.20250722050353"
+          "revision": "771116cea0280926324b2480ec92f55bca7a5a1e",
+          "version": "143.0.20250812050321"
         }
       },
       {
