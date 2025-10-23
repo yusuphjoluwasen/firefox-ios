@@ -14,7 +14,7 @@
 "MainMenu.AccessibilityLabels.BookmarkPage.Title.v41" = "Adicionar página aos marcadores";
 
 /* The accessibility label for the close button in the Main menu. */
-"MainMenu.AccessibilityLabels.CloseButton.142" = "Fechar Menu";
+"MainMenu.AccessibilityLabels.CloseButton.142" = "Fechar menu";
 
 /* The accessibility label for the dismiss button, for header banner, on top of the menu. */
 "MainMenu.AccessibilityLabels.DismissBanner.142" = "Ignorar faixa";
@@ -335,7 +335,7 @@
 "MainMenu.ToolsSection.AccessibilityLabels.DesktopSite.Title.v141" = "Site para computador";
 
 /* On the main menu, the accessibility label hint for the action that will show more menu options in the current section of the menu. Hint will be called when menu is expanded. */
-"MainMenu.ToolsSection.AccessibilityLabels.ExpandedHint.v142" = "Expandida";
+"MainMenu.ToolsSection.AccessibilityLabels.ExpandedHint.v142" = "Expandido";
 
 /* On the main menu, the accessibility label for the action that will bring up the Search menu, so the user can search for a word or a pharse on the current page. */
 "MainMenu.ToolsSection.AccessibilityLabels.FindInPage.v132" = "Localizar na página";
@@ -357,6 +357,9 @@
 
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Sub-menu Guardar";
+
+/* On the main menu, the accessibility label for the action that will summarize the content of the webpage. */
+"MainMenu.ToolsSection.AccessibilityLabels.SummarizePage.v142" = "Resumir página";
 
 /* On the main menu, the accessibility label for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.SwitchToDesktopSite.v132" = "Mudar para a versão de computador";
@@ -390,6 +393,9 @@
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "Guardar";
+
+/* On the main menu, the title for the action that will summarize the content of the webpage. */
+"MainMenu.ToolsSection.SummarizePage.Title.v142" = "Resumir página";
 
 /* On the main menu, the title for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.SwitchToDesktopSite.Title.v131" = "Mudar para o site de computador";
