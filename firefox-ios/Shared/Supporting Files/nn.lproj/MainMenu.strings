@@ -35,7 +35,7 @@
 "MainMenu.Account.AccessibilityLabels.MainButton.v132" = "Logg inn for å synkronisere passord, faner, og meir";
 
 /* On the main menu, when the user is signed in. */
-"MainMenu.Account.SignedIn.Description.v141" = "Behandle det du sikkerheitskopierer og synkroniserer";
+"MainMenu.Account.SignedIn.Description.v141" = "Handsam det du sikkerheitskopierer og synkroniserer";
 
 /* On the main menu, at the top, when the user is signed out. The description for the sign in action */
 "MainMenu.Account.SignedOut.Description.v131" = "Synkroniser passord, faner, og meir";
@@ -62,7 +62,7 @@
 "MainMenu.DesktopSiteOn.Title.v142" = "På";
 
 /* On the main menu, at the top, subtitle for the banner which suggest user can set Firefox as default browser. */
-"MainMenu.HeaderBanner.Subtitle.v142" = "Tek sekund. Byt når som helst.";
+"MainMenu.HeaderBanner.Subtitle.v142" = "Det tek nokre sekund. Byt når som helst.";
 
 /* On the main menu, at the top, title for the banner which suggest user can set Firefox as default browser. %@ is the app name */
 "MainMenu.HeaderBanner.Title.v142" = "Bruk %@ som standard";
@@ -358,6 +358,9 @@
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Undermeny lagre";
 
+/* On the main menu, the accessibility label for the action that will summarize the content of the webpage. */
+"MainMenu.ToolsSection.AccessibilityLabels.SummarizePage.v142" = "Samanfatt side";
+
 /* On the main menu, the accessibility label for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.SwitchToDesktopSite.v132" = "Byt til datamaskinversjon";
 
@@ -390,6 +393,9 @@
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "Lagre";
+
+/* On the main menu, the title for the action that will summarize the content of the webpage. */
+"MainMenu.ToolsSection.SummarizePage.Title.v142" = "Samanfatt side";
 
 /* On the main menu, the title for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.SwitchToDesktopSite.Title.v131" = "Byt til datamaskinutgåva";
